@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+body{background-color: Grey; }
+h1{color: white;}
+p{border:2px;}
+</style>
+</head>
+<body>
+    <h1> Colours In Rainbow [VIBGYOR]</h1>
+        <p style="color: red; border: 2px solid red ;size: 50%; border-width: 50%;"> Red<p>
+        <p style="color: orange;">Orange</p>
+        <p style="color: yellow;">Yellow</p>
+        <p style="color: green;">Green</p>
+        <p style="color: blue;">Blue</p>
+        <p style="color: indigo;">Indigo</p>
+        <p style="color: violet;">Violet</p>
+
+        </body> 
+</html>

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Assignment 2 </title>
+</head>
+<body>
+
+<h6> I love cars!!!</h6>
+<h5> I love cars!!!</h5>
+<h4> I love cars!!!</h4>
+<h3> I love cars!!!</h3>
+<h2> I love cars!!!</h2>
+<h1> I love cars!!!</h1>
+<h2> I love cars!!!</h2>
+<h3> I love cars!!!</h3>
+<h4> I love cars!!!</h4>
+<h5> I love cars!!!</h5>
+<h6> I love cars!!!</h6>
+<br>
+<ul>
+  <li>Koenigsegg</li>
+  <li>Bugatti</li>
+  <li>McLaren</li>
+</ul>
+
+<br>
+<ul style="list-style-type:disc;">
+ <li>Koenigsegg</li>
+  <li>Bugatti</li>
+  <li>McLaren</li>
+</ul>
+
+<br>
+<ol>
+  <li>Koenigsegg</li>
+  <li>Bugatti</li>
+  <li>McLaren</li>
+</ol>
+
+<br>
+<ol type="1">
+  <li>Koenigsegg</li>
+  <li>Bugatti</li>
+  <li>McLaren</li>
+</ol>
+
+<br>
+<ol type="A">
+  <li>Koenigsegg</li>
+  <li>Bugatti</li>
+  <li>McLaren</li>
+</ol>
+
+<br>
+<dl>
+  <dt>Koenigsegg Jesko</dt>
+  <dd>- a fast hyper-car</dd>
+  <dt>McLaren</dt>
+  <dd>- a beautiful hyper-car</dd>
+  <dt>Bugatti</dt>
+  <dd>- a luxurious hyper-car</dd>
+</dl>
+
+<h1> Images of Cars!!! </h1>
+<img src= "C:\Users\Saharsh Eknath Patil\Downloads\WhatsApp Image 2 2025-03-06 at 10.17.03_27643304.jpg" alt=This is Bugatti " width="400" height="200">
+<img src= "C:\Users\Saharsh Eknath Patil\Downloads\WhatsApp Image 3 2025-03-06 at 10.17.03_dcb19d26.jpg" alt=This is Koenigsegg" width="400" height="200">
+<img src= "C:\Users\Saharsh Eknath Patil\Downloads\WhatsApp Image 4 2025-03-06 at 10.17.04_bf69fac7.jpg" alt="This is Mclaren" width="300" height="200">
+
+</body>
+</html>

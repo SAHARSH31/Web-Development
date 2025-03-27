@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Assignment 2 </title>
+</head>
+<body>
+
+<h6> I love cars!!!</h6>
+<h5> I love cars!!!</h5>
+<h4> I love cars!!!</h4>
+<h3> I love cars!!!</h3>
+<h2> I love cars!!!</h2>
+<h1> I love cars!!!</h1>
+<h2> I love cars!!!</h2>
+<h3> I love cars!!!</h3>
+<h4> I love cars!!!</h4>
+<h5> I love cars!!!</h5>
+<h6> I love cars!!!</h6>
+<br>
+<h2><p style="color:red;">This is a red line.</p></h2>
+<h4><p style="color:blue;">This is a blue line.</p></h4>
+<h2><p style="color:green;">This is a green line.</p></h2>
+<h4><p style="color:orange;">This is a orange line.</p></h4>
+<br>
+<b> This text is bold </b> 
+<br>
+<i> this text is italic </i>
+<br>
+<strong> This text is strong </strong>
+<br>
+<em> This text is emphasized </em>
+<br>
+<mark> this text is marked </mark>
+<br>
+<small> this text is smaller</small>
+<br>
+<del> this text is deleted</del>
+
+<pre>
+Father
+What amazes me about the night is how at...
+
+Author: Álvaro Fausto Taruma
+Translation: Grant Azevedo Beleza-Schutzman
+</pre>
+
+
+</body>
+</html>

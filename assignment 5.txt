@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Car Information Frameset</title>
+</head>
+<frameset rows="20%, 80%">
+    <frame src="menu.html" name="menu" noresize scrolling="no">
+    <frame src="car_details.html" name="content">
+</frameset>
+</html>
