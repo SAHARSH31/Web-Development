@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Car Details</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+            margin: 20px;
+        }
+        h2 {
+            text-align: center;
+            color: #343a40;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            background: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+            overflow: hidden;
+        }
+        th, td {
+            padding: 12px;
+            text-align: center;
+            border-bottom: 1px solid #ddd;
+        }
+        th {
+            background-color: #007bff;
+            color: white;
+            text-transform: uppercase;
+        }
+        a {
+            text-decoration: none;
+            color: #007bff;
+            font-weight: bold;
+        }
+        a:hover {
+            color: #0056b3;
+        }
+        img {
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h2>Car Details</h2>
+    <table>
+        <tr>
+            <th>Sr No.</th>
+            <th>Car Company</th>
+            <th>Model Name</th>
+            <th>Price</th>
+            <th>Official Website</th>
+            <th>Image</th>
+        </tr>
+        <tr><td>1</td><td>Rolls Royce</td><td>Boat Tail</td><td>$28 Million</td><td><a href="https://www.rolls-roycemotorcars.com/">Visit</a></td><td><img src="C:\Users\Saharsh Eknath Patil\Downloads\WhatsApp Image 1 2025-03-06 at 10.17.02_ded35f24.jpg" width="150"></td></tr>
+        <tr><td>2</td><td>Bugatti</td><td>Chiron Super Sport 300+</td><td>$3.9 Million</td><td><a href="https://www.bugatti.com/">Visit</a></td><td><img src="C:\Users\Saharsh Eknath Patil\Downloads\WhatsApp Image 2 2025-03-06 at 10.17.03_27643304.jpg" width="150"></td></tr>
+        <tr><td>3</td><td>Koenigsegg</td><td>Jesko Absolute</td><td>$3.4 Million</td><td><a href="https://www.koenigsegg.com/">Visit</a></td><td><img src="C:\Users\Saharsh Eknath Patil\Downloads\WhatsApp Image 3 2025-03-06 at 10.17.03_dcb19d26.jpg" width="150"></td></tr>
+        <tr><td>4</td><td>McLaren</td><td>Senna GTR</td><td>$1.7 Million</td><td><a href="https://cars.mclaren.com/">Visit</a></td><td><img src="C:\Users\Saharsh Eknath Patil\Downloads\WhatsApp Image 4 2025-03-06 at 10.17.04_bf69fac7.jpg" width="150"></td></tr>
+        <tr><td>5</td><td>Porsche</td><td>GT3 RS</td><td>$223,800</td><td><a href="https://www.porsche.com/">Visit</a></td><td><img src="C:\Users\Saharsh Eknath Patil\Downloads\WhatsApp Image 5 2025-03-06 at 10.17.05_21a72cfd.jpg" width="150"></td></tr>
+        <tr><td>6</td><td>Mercedes</td><td>AMG One</td><td>$2.72 Million</td><td><a href="https://www.mercedes-amg.com/">Visit</a></td><td><img src="C:\Users\Saharsh Eknath Patil\Downloads\WhatsApp Image 6 2025-03-06 at 10.17.05_e3ceba10.jpg" width="150"></td></tr>
+        <tr><td>7</td><td>BMW</td><td>M4 Competition</td><td>$86,300</td><td><a href="https://www.bmw.com/">Visit</a></td><td><img src="C:\Users\Saharsh Eknath Patil\Downloads\WhatsApp Image 7 2025-03-06 at 10.17.06_cca18610.jpg" width="150"></td></tr>
+        <tr><td>8</td><td>Nissan</td><td>Nismo GTR</td><td>$220,000</td><td><a href="https://www.nissan-global.com/">Visit</a></td><td><img src="C:\Users\Saharsh Eknath Patil\Downloads\WhatsApp Image 8 2025-03-06 at 10.17.06_f25aba89.jpg" width="150"></td></tr>
+        <tr><td>9</td><td>Bentley</td><td>Continental GT</td><td>$250,000</td><td><a href="https://www.bentleymotors.com/">Visit</a></td><td><img src="C:\Users\Saharsh Eknath Patil\Downloads\WhatsApp Image 14 2025-03-06 at 10.23.01_7ad5ccc9.jpg" width="150"></td></tr>
+        <tr><td>10</td><td>Dodge</td><td>Viper ACR</td><td>$121,395</td><td><a href="https://www.dodge.com/">Visit</a></td><td><img src="C:\Users\Saharsh Eknath Patil\Downloads\WhatsApp Image 9 2025-03-06 at 10.17.07_248738fa.jpg" width="150"></td></tr>
+        <tr><td>11</td><td>Hummer</td><td>GMC Hummer EV</td><td>$110,295</td><td><a href="https://www.gmc.com/">Visit</a></td><td><img src="C:\Users\Saharsh Eknath Patil\Downloads\WhatsApp Image 10 2025-03-06 at 10.17.08_245cff3e.jpg" width="150"></td></tr>
+        <tr><td>12</td><td>Lamborghini</td><td>Revuelto</td><td>$890,000</td><td><a href="https://www.lamborghini.com/">Visit</a></td><td><img src="C:\Users\Saharsh Eknath Patil\Downloads\WhatsApp Image 11 2025-03-06 at 10.17.08_13ec8400.jpg" width="150"></td></tr>
+        <tr><td>13</td><td>Land Rover</td><td>Defender Octa</td><td>$120,000</td><td><a href="https://www.landrover.com/">Visit</a></td><td><img src="C:\Users\Saharsh Eknath Patil\Downloads\WhatsApp Image 12 2025-03-06 at 10.17.09_e60b90eb.jpg" width="150"></td></tr>
+        <tr><td>14</td><td>Pagani</td><td>Zonda R</td><td>$3.4 Million</td><td><a href="https://www.pagani.com/">Visit</a></td><td><img src="C:\Users\Saharsh Eknath Patil\Downloads\WhatsApp Image 13 2025-03-06 at 10.17.09_8b7375b3.jpg" width="150"></td></tr>
+    </table>
+</body>
+</html>
